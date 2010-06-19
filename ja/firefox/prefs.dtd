@@ -29,6 +29,9 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
+<!ENTITY prefs.tosLink.label        "Terms of Service">
+<!ENTITY prefs.ppLink.label         "Privacy Policy">
+
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
 
 <!ENTITY setup.choicePage.title.label     "Have you used &syncBrand.fullName.label; before?">
@@ -37,7 +40,7 @@
 
 <!ENTITY setup.newAccountPage.title.label  "Create your &syncBrand.shortName.label; Account">
 <!ENTITY setup.newPPPage.title.label       "Enter your Secret Phrase">
-<!ENTITY setup.newAccountPrefs.title.label "What do you want &brandShortName; to sync?">
+<!ENTITY setup.newAccountPrefs2.title.label "Browser Sync Preferences">
 <!ENTITY setup.captchaPage.title.label     "Please confirm you're not a robot ;)">
 
 <!ENTITY setup.mergeChoicePage.title.label "How do you want to start off?">
@@ -128,3 +131,6 @@ You can now continue using &brandShortName;.">
 <!ENTITY syncItem.passwords.accesskey "P">
 <!ENTITY syncItem.prefs.label         "Sync Preferences">
 <!ENTITY syncItem.prefs.accesskey     "S">
+
+<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY syncComputerName.accesskey   "c">

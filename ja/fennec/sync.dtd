@@ -1,0 +1,7 @@
+<!ENTITY username.label       "Username">
+<!ENTITY password.label       "Password">
+<!ENTITY secretPhrase.label   "Secret Phrase">
+<!ENTITY deviceName.label     "Device Name">
+<!ENTITY connect.label        "Connect">
+<!ENTITY disconnect.label     "Disconnect">
+<!ENTITY syncNow.label        "Sync Now">

@@ -9,14 +9,15 @@ ja-JP-mac: http://hg.mozilla.org/weave-l10n/ja-JP-mac/
 リビジョン番号は hg.mozilla.org のリポジトリにおける番号を確認して記録するのが望ましい
 面倒なら取りあえず changesetid が正確でありさえすれば確認できるので問題はない
 
-target file           hg changeset rev:id    by            comment
+target file           hg changeset rev:id    by          comment
 --------------------------------------------------------------------------------
-all                   99:8d88dc7924f2        mar           initial copy of en-US (1.3b5)
+all                    99:8d88dc7924f2       mar         initial copy of en-US (1.3b5)
+all                   106:76af7fc2d127       mar         update to en-US ver.1.4
 
 --------------------------------------------------------------------------------
 
         現在の同期ターゲットリビジョン
 
 --------------------------------------------------------------------------------
-sync.weave.rev				= 8d88dc7924f2
+sync.weave.rev				= 76af7fc2d127
 --------------------------------------------------------------------------------
