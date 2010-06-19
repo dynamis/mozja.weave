@@ -2,11 +2,11 @@
 
 <!ENTITY syncMenu.label       "&syncBrand.shortName.label;">
 <!ENTITY syncSetup.label      "Set Up &syncBrand.shortName.label;…">
-<!ENTITY logInItem.label      "Connect">
-<!ENTITY logOutItem.label     "Disconnect">
-<!ENTITY syncNowItem.label    "Sync Now">
-<!ENTITY openPrefsItem.label  "Preferences…">
-<!ENTITY openLogItem.label    "Activity Log">
-<!ENTITY status.offline.label "Offline">
+<!ENTITY logInItem.label      "接続">
+<!ENTITY logOutItem.label     "接続を解除">
+<!ENTITY syncNowItem.label    "今すぐ同期">
+<!ENTITY openPrefsItem.label  "設定...">
+<!ENTITY openLogItem.label    "イベントログ">
+<!ENTITY status.offline.label "オフライン">
 
-<!ENTITY syncTabsMenu.label               "Tabs From Other Computers">
+<!ENTITY syncTabsMenu.label               "他のコンピュータで開かれていたタブ">

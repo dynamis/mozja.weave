@@ -1,9 +1,9 @@
-<!ENTITY tabs.otherComputers.label               "Tabs from Other Computers">
+<!ENTITY tabs.otherComputers.label               "他のコンピュータで開かれていたタブ">
 
-<!ENTITY tabs.searchText.label                   "Type here to find tabs…">
+<!ENTITY tabs.searchText.label                   "ここでタブを検索できます...">
 
-<!ENTITY tabs.context.openTab.label              "Open This Tab">
-<!ENTITY tabs.context.openMultipleTabs.label     "Open Selected Tabs">
-<!ENTITY tabs.context.bookmarkSingleTab.label    "Bookmark This Tab…">
-<!ENTITY tabs.context.bookmarkMultipleTabs.label "Bookmark Selected Tabs…">
-<!ENTITY tabs.context.refreshList.label          "Refresh List">
+<!ENTITY tabs.context.openTab.label              "このタブを開く">
+<!ENTITY tabs.context.openMultipleTabs.label     "選択したタブを開く">
+<!ENTITY tabs.context.bookmarkSingleTab.label    "このタブをブックマーク...">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label "選択したタブをブックマーク...">
+<!ENTITY tabs.context.refreshList.label          "一覧を更新">

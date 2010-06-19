@@ -2,134 +2,134 @@
 <!ENTITY syncBrand.fullName.label   "Firefox Sync">
 
 <!ENTITY weavePrefPane.label        "&syncBrand.shortName.label;">
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Setup">
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; の設定">
 
-<!ENTITY connectTo.label            "Connect to">
+<!ENTITY connectTo.label            "接続先:">
 
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; Server">
-<!ENTITY serverType.custom.label    "Use a custom server">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label; サーバ">
+<!ENTITY serverType.custom.label    "独自サーバを使用する">
 
-<!ENTITY signIn.username.label      "User Name">
+<!ENTITY signIn.username.label      "ユーザ名">
 <!ENTITY signIn.username.accesskey  "U">
-<!ENTITY signIn.password.label      "Password">
+<!ENTITY signIn.password.label      "パスワード">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "Server URL">
+<!ENTITY signIn.serverURL.label     "サーバ URL">
 <!ENTITY signIn.serverURL.accesskey "L">
 
-<!ENTITY setup.confirmPassword.label  "Confirm Password">
+<!ENTITY setup.confirmPassword.label  "パスワードを再度入力">
 <!ENTITY setup.confirmPassword.accesskey  "m">
-<!ENTITY setup.emailAddress.label     "Email Address">
+<!ENTITY setup.emailAddress.label     "メールアドレス">
 <!ENTITY setup.emailAddress.accesskey "E">
 
-<!ENTITY setup.tosAgree1.label      "I agree to the">
+<!ENTITY setup.tosAgree1.label      "私は">
 <!ENTITY setup.tosAgree1.accesskey  "a">
-<!ENTITY setup.tosLink.label        "Terms of Service">
-<!ENTITY setup.tosAgree2.label      "and the">
-<!ENTITY setup.ppLink.label         "Privacy Policy">
-<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosLink.label        "利用規約">
+<!ENTITY setup.tosAgree2.label      "と">
+<!ENTITY setup.ppLink.label         "プライバシーポリシー">
+<!ENTITY setup.tosAgree3.label      "に同意します">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!ENTITY prefs.tosLink.label        "Terms of Service">
-<!ENTITY prefs.ppLink.label         "Privacy Policy">
+<!ENTITY prefs.tosLink.label        "利用規約">
+<!ENTITY prefs.ppLink.label         "プライバシーポリシー">
 
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; を使えば、Firefox の履歴やブックマーク、パスワード、開いているタブに、様々な端末からアクセスできます。">
 
-<!ENTITY setup.choicePage.title.label     "Have you used &syncBrand.fullName.label; before?">
-<!ENTITY setup.choicePage.new.label       "I've never used &syncBrand.shortName.label; before">
-<!ENTITY setup.choicePage.existing.label  "I'm already using &syncBrand.shortName.label; on another computer">
+<!ENTITY setup.choicePage.title.label     "これまでに &syncBrand.fullName.label; を使用したことはありますか？">
+<!ENTITY setup.choicePage.new.label       "これまでに &syncBrand.fullName.label; を使用したことは一度もありません">
+<!ENTITY setup.choicePage.existing.label  "既に他のパソコンで &syncBrand.shortName.label; を使用しています">
 
-<!ENTITY setup.newAccountPage.title.label  "Create your &syncBrand.shortName.label; Account">
-<!ENTITY setup.newPPPage.title.label       "Enter your Secret Phrase">
+<!ENTITY setup.newAccountPage.title.label  "あなたの &syncBrand.shortName.label; アカウントを作成">
+<!ENTITY setup.newPPPage.title.label       "秘密の言葉を入力">
 <!ENTITY setup.newAccountPrefs2.title.label "Browser Sync Preferences">
-<!ENTITY setup.captchaPage.title.label     "Please confirm you're not a robot ;)">
+<!ENTITY setup.captchaPage.title.label     "あなたがロボットではないことを証明してください ;)">
 
-<!ENTITY setup.mergeChoicePage.title.label "How do you want to start off?">
-<!ENTITY setup.existingAccount.title.label "Enter Account Information">
+<!ENTITY setup.mergeChoicePage.title.label "どのように始めますか？">
+<!ENTITY setup.existingAccount.title.label "アカウント情報を入力">
 
-<!ENTITY setup.successPage.title.label   "Setup Complete!">
-<!ENTITY setup.successPage.desc.label    "Congratulations! &brandShortName; is now set up to automatically sync your
-information. Don't forget to install &syncBrand.fullName.label; on all your devices.
-You can now continue using &brandShortName;.">
+<!ENTITY setup.successPage.title.label   "設定が完了しました！">
+<!ENTITY setup.successPage.desc.label    "おめでとうございます！ &brandShortName; はあなたのデータを自動的に同期するよう設定されました。
+お持ちの他の端末にも &syncBrand.fullName.label; をインストールしましょう。
+これから &brandShortName; を使い続けられます。">
 
-<!ENTITY signIn.button.label        "Sign In">
+<!ENTITY signIn.button.label        "ログイン">
 <!ENTITY signIn.button.accesskey    "S">
 
-<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
+<!ENTITY setupButton.label          "&syncBrand.fullName.label; を設定">
 <!ENTITY setupButton.accesskey      "S">
 
-<!ENTITY goBack.label                 "Back">
+<!ENTITY goBack.label                 "戻る">
 <!ENTITY goBack.accesskey             "B">
-<!ENTITY continue.label               "Continue">
+<!ENTITY continue.label               "続ける">
 <!ENTITY continue.accesskey           "C">
 
-<!ENTITY passphraseGroupbox.label     "Enter Secret Phrase">
-<!ENTITY passphraseEntry.label        "Secret Phrase">
+<!ENTITY passphraseGroupbox.label     "秘密の言葉を入力">
+<!ENTITY passphraseEntry.label        "秘密の言葉">
 <!ENTITY passphraseEntry.accesskey    "S">
-<!ENTITY passphraseConfirm.label      "Confirm">
+<!ENTITY passphraseConfirm.label      "確認">
 <!ENTITY passphraseConfirm.accesskey  "m">
-<!ENTITY passphraseDesc.label         "Please enter a secret phrase. This will be used to encrypt all your data so only you can access it. It is never stored on the server, so don't lose this!">
-<!ENTITY passphraseDesc2.label        "This must be at least 12 characters long and cannot match your account password.">
-<!ENTITY passphraseDesc3.label        "Please enter your secret phrase. This must be the same secret phrase that you used to encrypt your data.">
-<!ENTITY passphraseHelp.label         "Your secret phrase is at least 12 characters long and is not your password. You can find your saved secret phrase by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct secret phrase, you can choose to reset it, but you will lose any data stored on the server.">
-<!ENTITY connecting.label             "Connecting…">
-<!ENTITY verifying.label              "Verifying…">
+<!ENTITY passphraseDesc.label         "秘密の言葉を入力してください。これは同期するすべてのデータを暗号化し、あなただけがアクセスできるようにするために使われます。サーバには保存されませんので、絶対に忘れないようにしてください！">
+<!ENTITY passphraseDesc2.label        "これは 12 文字以上で設定する必要があり、アカウントのパスワードと同じにすることはできません。">
+<!ENTITY passphraseDesc3.label        "秘密の言葉を入力してください。これはあなたのデータを暗号化するために使用したのと同じ言葉です。">
+<!ENTITY passphraseHelp.label         "秘密の言葉は 12 文字以上で、あなたのパスワードではありません。保存されている秘密の言葉は、他のコンピュータで Firefox を起動し、セキュリティ設定の「保存されているパスワード」を確認することで見つけられます。それでも正しい秘密の言葉が分からない場合は、リセットすることができますが、サーバ上に保存されているデータはすべて失われます。">
+<!ENTITY connecting.label             "接続中...">
+<!ENTITY verifying.label              "確認中...">
 
-<!ENTITY choice.caption.label         "Choose what you want to happen to this computer">
-<!ENTITY choice.merge.main.label      "Merge this computer's data with your &syncBrand.shortName.label; data">
-<!ENTITY choice.merge.secondary.label "This will combine the data from this computer with the devices already syncing with &syncBrand.shortName.label;.">
-<!ENTITY choice.merge.recommend.label "This option is strongly recommended by Mozilla for all users.">
-<!ENTITY choice.client.main.label     "Replace all data on this computer with your &syncBrand.fullName.label; data">
-<!ENTITY choice.client.secondary.label  "All of your local data will be deleted and replaced by your &syncBrand.fullName.label; data.">
-<!ENTITY choice.server.main.label     "Replace all other devices with your local data">
-<!ENTITY choice.server.secondary.label  "All data on your devices using &syncBrand.fullName.label; will be replaced with your local data.">
+<!ENTITY choice.caption.label         "このコンピュータで何をしたいか選択してください">
+<!ENTITY choice.merge.main.label      "このコンピュータ上のデータを &syncBrand.shortName.label; のデータと統合する">
+<!ENTITY choice.merge.secondary.label "このコンピュータに保存されているデータを、既に &syncBrand.shortName.label; で同期している端末のデータと組み合わせます。">
+<!ENTITY choice.merge.recommend.label "Mozilla ではこのオプションをすべてのユーザに強く推奨します。">
+<!ENTITY choice.client.main.label     "このコンピュータ上のすべてデータを &syncBrand.fullName.label; のデータと置き換える">
+<!ENTITY choice.client.secondary.label  "このコンピュータに保存されているデータはすべて削除され、&syncBrand.fullName.label; のデータに置き換えられます。">
+<!ENTITY choice.server.main.label     "他のすべての端末のデータをこのコンピュータ上のデータと置き換える">
+<!ENTITY choice.server.secondary.label  "&syncBrand.fullName.label; を使用している端末上のすべてのデータは、このコンピュータのデータに置き換えられます。">
 
-<!ENTITY confirm.caption.label        "Confirm your choice">
-<!ENTITY confirm.merge.label          "You have chosen to merge your data on this computer with the data on your other devices running &syncBrand.fullName.label;.">
-<!ENTITY confirm.merge.start.label    "Start Syncing Now">
-<!ENTITY confirm.client.label         "All &brandShortName; data on this computer will be deleted, including the following:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this computer.">
-<!ENTITY confirm.client.warning.label "WARNING: This will result in all &brandShortName; data on this computer being replaced!">
-<!ENTITY confirm.client.start.label   "Delete and Replace Local Data">
-<!ENTITY confirm.server.label         "The following devices will be overwritten with your local data:">
-<!ENTITY confirm.server.warning.label "WARNING: Your local data will replace all &brandShortName; data on these devices!">
-<!ENTITY confirm.server.start.label   "Replace Everything on These Devices">
+<!ENTITY confirm.caption.label        "選択内容を確認">
+<!ENTITY confirm.merge.label          "あなたは、このコンピュータ上のデータを &syncBrand.fullName.label; を使用している他の端末上のデータと組み合わせることを選択しました。">
+<!ENTITY confirm.merge.start.label    "今すぐ同期を開始">
+<!ENTITY confirm.client.label         "このコンピュータ上の &brandShortName; のデータはすべて削除されます:">
+<!ENTITY confirm.client.moreinfo.label "その後 &brandShortName; は &syncBrand.fullName.label; のデータをこのコンピュータにコピーします。">
+<!ENTITY confirm.client.warning.label "警告: これにより、このコンピュータ上の &brandShortName; のデータはすべて置き換えられます！">
+<!ENTITY confirm.client.start.label   "このコンピュータ上のデータを削除して置換">
+<!ENTITY confirm.server.label         "以下の端末が、このコンピュータ上のデータで上書きされます:">
+<!ENTITY confirm.server.warning.label "警告: これにより、これらの端末上の &brandShortName; のデータはすべてこのコンピュータ上のデータで置き換えられます！">
+<!ENTITY confirm.server.start.label   "これらの端末上のデータをすべて置換">
 
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; アカウント">
 
-<!ENTITY currentUser.label            "Current User:">
+<!ENTITY currentUser.label            "現在のユーザ:">
 
-<!ENTITY manageAccount.label          "Manage Account">
+<!ENTITY manageAccount.label          "アカウントを管理">
 <!ENTITY manageAccount.accesskey      "A">
 
-<!ENTITY changePassword.label         "Change Password">
-<!ENTITY resetPassword.label          "Reset Password">
-<!ENTITY updatePass.label             "Update">
-<!ENTITY resetPass.label              "Reset">
-<!ENTITY changePassphrase.label       "Change Secret Phrase">
-<!ENTITY resetSync.label              "Reset Sync">
-<!ENTITY cancelResetSync.label        "Cancel Reset Sync">
-<!ENTITY differentAccount.label       "Use a Different Account">
-<!ENTITY startOver.label              "Start Over">
+<!ENTITY changePassword.label         "パスワードを変更">
+<!ENTITY resetPassword.label          "パスワードをリセット">
+<!ENTITY updatePass.label             "更新">
+<!ENTITY resetPass.label              "リセット">
+<!ENTITY changePassphrase.label       "秘密の言葉を変更">
+<!ENTITY resetSync.label              "Sync をリセット">
+<!ENTITY cancelResetSync.label        "Sync のリセットをキャンセル">
+<!ENTITY differentAccount.label       "別のアカウントを使用">
+<!ENTITY startOver.label              "はじめからやり直す">
 
-<!ENTITY syncPrefsCaption.label       "Browser Sync">
+<!ENTITY syncPrefsCaption.label       "ブラウザの同期">
 
-<!ENTITY syncModeSwitchDesc.label     "&brandShortName; will: ">
+<!ENTITY syncModeSwitchDesc.label     "&brandShortName; は:">
 <!ENTITY syncModeSwitchDesc.accesskey "w">
 
-<!ENTITY syncEverything.label         "Sync Everything">
-<!ENTITY customSync.label             "Use my custom settings">
+<!ENTITY syncEverything.label         "すべてのデータを同期する">
+<!ENTITY customSync.label             "独自設定を使用する">
 
-<!ENTITY syncEverythingDescription.label  "Your bookmarks, history, passwords, preferences, and tabs will be synced.">
+<!ENTITY syncEverythingDescription.label  "あなたのブックマーク、履歴、パスワード、設定、タブが同期されます。">
 
-<!ENTITY syncItem.bookmarks.label     "Sync Bookmarks">
+<!ENTITY syncItem.bookmarks.label     "ブックマークを同期">
 <!ENTITY syncItem.bookmarks.accesskey "m">
-<!ENTITY syncItem.tabs.label          "Sync Tabs">
+<!ENTITY syncItem.tabs.label          "タブを同期">
 <!ENTITY syncItem.tabs.accesskey      "T">
-<!ENTITY syncItem.history.label       "Sync History">
+<!ENTITY syncItem.history.label       "履歴を同期">
 <!ENTITY syncItem.history.accesskey   "r">
-<!ENTITY syncItem.passwords.label     "Sync Passwords">
+<!ENTITY syncItem.passwords.label     "パスワードを同期">
 <!ENTITY syncItem.passwords.accesskey "P">
-<!ENTITY syncItem.prefs.label         "Sync Preferences">
+<!ENTITY syncItem.prefs.label         "設定を同期">
 <!ENTITY syncItem.prefs.accesskey     "S">
 
 <!ENTITY syncComputerName.label       "Computer Name:">
