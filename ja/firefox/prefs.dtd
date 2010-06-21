@@ -40,7 +40,7 @@
 
 <!ENTITY setup.newAccountPage.title.label  "あなたの &syncBrand.shortName.label; アカウントを作成">
 <!ENTITY setup.newPPPage.title.label       "秘密の言葉を入力">
-<!ENTITY setup.newAccountPrefs2.title.label "Browser Sync Preferences">
+<!ENTITY setup.newAccountPrefs2.title.label "ブラウザ同期設定">
 <!ENTITY setup.captchaPage.title.label     "あなたがロボットではないことを証明してください ;)">
 
 <!ENTITY setup.mergeChoicePage.title.label "どのように始めますか？">
@@ -132,5 +132,5 @@
 <!ENTITY syncItem.prefs.label         "設定を同期">
 <!ENTITY syncItem.prefs.accesskey     "S">
 
-<!ENTITY syncComputerName.label       "Computer Name:">
+<!ENTITY syncComputerName.label       "コンピュータ名:">
 <!ENTITY syncComputerName.accesskey   "c">
