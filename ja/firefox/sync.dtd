@@ -9,4 +9,4 @@
 <!ENTITY openLogItem.label    "イベントログ">
 <!ENTITY status.offline.label "オフライン">
 
-<!ENTITY syncTabsMenu.label               "他のコンピュータで開かれていたタブ">
+<!ENTITY syncTabsMenu.label               "他のコンピュータで開いていたタブ">

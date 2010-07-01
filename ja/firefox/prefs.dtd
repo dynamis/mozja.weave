@@ -32,11 +32,11 @@
 <!ENTITY prefs.tosLink.label        "利用規約">
 <!ENTITY prefs.ppLink.label         "プライバシーポリシー">
 
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; を使えば、Firefox の履歴やブックマーク、パスワード、開いているタブに、様々な端末からアクセスできます。">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; を使えば、Firefox の履歴、ブックマーク、パスワード、開いているタブに、様々な端末からアクセスできます。">
 
 <!ENTITY setup.choicePage.title.label     "これまでに &syncBrand.fullName.label; を使用したことはありますか？">
 <!ENTITY setup.choicePage.new.label       "これまでに &syncBrand.fullName.label; を使用したことは一度もありません">
-<!ENTITY setup.choicePage.existing.label  "既に他のパソコンで &syncBrand.shortName.label; を使用しています">
+<!ENTITY setup.choicePage.existing.label  "既に他のコンピュータで &syncBrand.shortName.label; を使用しています">
 
 <!ENTITY setup.newAccountPage.title.label  "あなたの &syncBrand.shortName.label; アカウントを作成">
 <!ENTITY setup.newPPPage.title.label       "秘密の言葉を入力">
@@ -119,7 +119,7 @@
 <!ENTITY syncEverything.label         "すべてのデータを同期する">
 <!ENTITY customSync.label             "独自設定を使用する">
 
-<!ENTITY syncEverythingDescription.label  "あなたのブックマーク、履歴、パスワード、設定、タブが同期されます。">
+<!ENTITY syncEverythingDescription.label  "あなたの履歴、ブックマーク、パスワード、設定、タブが同期されます。">
 
 <!ENTITY syncItem.bookmarks.label     "ブックマークを同期">
 <!ENTITY syncItem.bookmarks.accesskey "m">
@@ -132,5 +132,5 @@
 <!ENTITY syncItem.prefs.label         "設定を同期">
 <!ENTITY syncItem.prefs.accesskey     "S">
 
-<!ENTITY syncComputerName.label       "コンピュータ名:">
+<!ENTITY syncComputerName.label       "端末名:">
 <!ENTITY syncComputerName.accesskey   "c">

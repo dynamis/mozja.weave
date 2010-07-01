@@ -1,7 +1,7 @@
-﻿<!ENTITY username.label       "ユーザ名">
+<!ENTITY username.label       "ユーザ名">
 <!ENTITY password.label       "パスワード">
 <!ENTITY secretPhrase.label   "秘密の言葉">
-<!ENTITY deviceName.label     "デバイス名">
+<!ENTITY deviceName.label     "端末名">
 <!ENTITY connect.label        "接続">
 <!ENTITY disconnect.label     "接続を解除">
 <!ENTITY syncNow.label        "今すぐ同期">

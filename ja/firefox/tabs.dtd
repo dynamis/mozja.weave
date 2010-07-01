@@ -1,6 +1,6 @@
-<!ENTITY tabs.otherComputers.label               "他のコンピュータで開かれていたタブ">
+<!ENTITY tabs.otherComputers.label               "他のコンピュータで開いていたタブ">
 
-<!ENTITY tabs.searchText.label                   "ここでタブを検索できます...">
+<!ENTITY tabs.searchText.label                   "タブを検索">
 
 <!ENTITY tabs.context.openTab.label              "このタブを開く">
 <!ENTITY tabs.context.openMultipleTabs.label     "選択したタブを開く">
