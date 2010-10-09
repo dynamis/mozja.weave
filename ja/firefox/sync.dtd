@@ -1,7 +1,7 @@
 <!ENTITY syncBrand.shortName.label  "Sync">
 
 <!ENTITY syncMenu.label       "&syncBrand.shortName.label;">
-<!ENTITY syncSetup.label      "&syncBrand.shortName.label; を設定...">
+<!ENTITY syncSetup.label      "&syncBrand.shortName.label; をセットアップ...">
 <!ENTITY logInItem.label      "接続">
 <!ENTITY logOutItem.label     "接続を解除">
 <!ENTITY syncNowItem.label    "今すぐ同期">
@@ -9,4 +9,4 @@
 <!ENTITY openLogItem.label    "イベントログ">
 <!ENTITY status.offline.label "オフライン">
 
-<!ENTITY syncTabsMenu.label               "他のコンピュータで開いていたタブ">
+<!ENTITY syncTabsMenu.label               "他のパソコンで開いていたタブ">

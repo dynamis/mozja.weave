@@ -2,8 +2,8 @@
 <!ENTITY syncBrand.fullName.label   "Firefox Sync">
 
 <!ENTITY firstrun.title    "&syncBrand.fullName.label; がインストールされました">
-<!ENTITY intro.description "ブラウザの履歴、ブックマーク、パスワードなどを、パソコンとモバイル間で同期する準備がほぼ完了しました。">
-<!ENTITY step1.description "あなたのパソコンの Firefox に &syncBrand.fullName.label; をインストールし、&syncBrand.shortName.label; アカウントを作成しておく必要があります。">
-<!ENTITY step2.description "パソコンの Firefox のデータを同期したら、ここへ戻ってきて &syncBrand.shortName.label; へ接続してください。">
-<!ENTITY step3.description "一度接続したら、あなたのパソコンは次に同期したときにこのモバイルを認識します。">
+<!ENTITY intro.description "ブラウザの履歴、ブックマーク、パスワードなどを、複数のパソコンやモバイルと同期する準備がほぼ完了しました。">
+<!ENTITY step1.description "お使いのパソコンの Firefox に &syncBrand.fullName.label; アドオンをインストールし、&syncBrand.shortName.label; アカウントを作成しておく必要があります。">
+<!ENTITY step2.description "パソコンの Firefox のブラウザデータを同期したら、ここへ戻ってきて &syncBrand.shortName.label; へ接続してください。">
+<!ENTITY step3.description "一度接続したら、お使いのパソコンの Firefox は、次に同期したときにこのモバイルを認識します。">
 <!ENTITY connect.label     "&syncBrand.shortName.label; へ接続">
